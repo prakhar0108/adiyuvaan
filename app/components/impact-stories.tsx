@@ -1,12 +1,13 @@
 import { Card, CardContent } from "@/components/ui/card";
 
+
 export default function ImpactStories() {
   const mainTestimonial = {
     quote: "Thanks to Adiyuvaa Foundation's skills program, I learned web development and now run my own tech startup, employing 15 other young people from my community.",
     name: "Priya Sharma",
     title: "Web Developer & Entrepreneur",
     location: "Mumbai, Maharashtra",
-    image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600"
+    image: "/assets/images/impact/young-girl.jpg"
   };
 
   const testimonials = [
@@ -20,7 +21,7 @@ export default function ImpactStories() {
       name: "Anita Patel",
       program: "Education Program Beneficiary",
       quote: "Through the scholarship program, I completed my engineering degree. Today I'm designing sustainable solutions for rural communities.",
-      image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&h=100"
+      image: "/assets/images/impact/young-girl.jpg"
     },
     {
       name: "Arjun Singh",
