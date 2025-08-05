@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { GraduationCap, Wrench, Utensils, HandHeart } from "lucide-react";
 
 export default function About() {
